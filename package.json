@@ -10,6 +10,10 @@
   "author": {
     "name": "Eugen Kochtyrew"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oigene/vscode-sessions.git"
+  },
   "categories": [
     "Other"
   ],
