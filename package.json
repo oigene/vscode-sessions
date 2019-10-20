@@ -22,7 +22,7 @@
   "activationEvents": [
     "*"
   ],
-  "icon": "images/icon.png",
+  "icon": "https://raw.githubusercontent.com/oigene/vscode-sessions/master/images/icon.png",
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
